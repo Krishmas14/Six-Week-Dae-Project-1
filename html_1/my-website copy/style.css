@@ -190,6 +190,16 @@ a {
   font-size: 1.5rem;
 }
 
+.project-output {
+  margin-top: 24px;
+  padding: 16px 20px;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: var(--shadow);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .hero-panel {
   background: var(--card);
   padding: 28px;
